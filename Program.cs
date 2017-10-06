@@ -4,10 +4,12 @@ namespace cadastroCliente
 {
     class Program
     {
-        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string nome;        
+            Console.WriteLine("Qual o seu nome?");
+            nome = Console.ReadLine();
+
         }
     }
 }
