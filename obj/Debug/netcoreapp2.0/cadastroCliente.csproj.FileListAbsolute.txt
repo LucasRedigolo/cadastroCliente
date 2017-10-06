@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\cadastroCliente\bin\Debug\netcoreapp2.0\cadastroCliente.deps.json
+c:\Users\FIC\Desktop\cadastroCliente\bin\Debug\netcoreapp2.0\cadastroCliente.runtimeconfig.json
+c:\Users\FIC\Desktop\cadastroCliente\bin\Debug\netcoreapp2.0\cadastroCliente.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\cadastroCliente\bin\Debug\netcoreapp2.0\cadastroCliente.dll
+c:\Users\FIC\Desktop\cadastroCliente\bin\Debug\netcoreapp2.0\cadastroCliente.pdb
+c:\Users\FIC\Desktop\cadastroCliente\obj\Debug\netcoreapp2.0\cadastroCliente.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\cadastroCliente\obj\Debug\netcoreapp2.0\cadastroCliente.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\cadastroCliente\obj\Debug\netcoreapp2.0\cadastroCliente.AssemblyInfo.cs
+c:\Users\FIC\Desktop\cadastroCliente\obj\Debug\netcoreapp2.0\cadastroCliente.dll
+c:\Users\FIC\Desktop\cadastroCliente\obj\Debug\netcoreapp2.0\cadastroCliente.pdb
