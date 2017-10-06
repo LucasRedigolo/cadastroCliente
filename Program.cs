@@ -11,6 +11,7 @@ namespace cadastroCliente
             string RG;
             string CPF;  
             int Idade;
+            bool ConverteuIdade = false;
             string Genero;
             string LocalNascimento;
             string Profissao;
@@ -28,8 +29,13 @@ namespace cadastroCliente
             Console.WriteLine("Qual o seu CPF?");
             CPF = Console.ReadLine();
 
-            Console.WriteLine("Qual sua idade?");
-            Idade = Convert.ToInt32(Console.ReadLine());
+            do
+            {
+
+                Console.WriteLine("Qual sua idade?");
+                ConverteuIdade = int.TryParse(Console.ReadLine(), out Idade);
+
+            } while (!(ConverteuIdade == true));
 
             Console.WriteLine("Qual o seu local de nascimento?");
             LocalNascimento = Console.ReadLine();
