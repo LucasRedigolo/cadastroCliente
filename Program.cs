@@ -6,7 +6,12 @@ namespace cadastroCliente
     {
         static void Main(string[] args)
         {
+
             string Nome;
+            string RG;
+            string CPF;  
+            int Idade;
+            string Genero;
             string LocalNascimento;
             string Profissao;
             string Endereco;
@@ -17,6 +22,15 @@ namespace cadastroCliente
             Console.WriteLine("Qual o seu nome?");
             Nome = Console.ReadLine();
 
+            Console.WriteLine("Qual o seu RG?");
+            RG = Console.ReadLine();
+
+            Console.WriteLine("Qual o seu CPF?");
+            CPF = Console.ReadLine();
+
+            Console.WriteLine("Qual sua idade?");
+            Idade = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Qual o seu local de nascimento?");
             LocalNascimento = Console.ReadLine();
 
@@ -25,6 +39,9 @@ namespace cadastroCliente
 
             Console.WriteLine("Qual o seu endereço?");
             Endereco = Console.ReadLine();
+
+            Console.WriteLine("Qual genero você se identifica?");
+            Genero = Console.ReadLine();
 
             do
             {
@@ -41,6 +58,8 @@ namespace cadastroCliente
             }
 
             Console.WriteLine(StringEstadoCivil);
+
+            Console.WriteLine("Cadastro concluído com sucesso!");
 
         }     
     }
