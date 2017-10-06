@@ -25,6 +25,8 @@ namespace cadastroCliente
             CPF = Console.ReadLine();
             Console.WriteLine("Qual genero você se identifica?");
             Genero = Console.ReadLine();
+
+            Console.WriteLine("Cadastro concluído com sucesso!");
         }
     }
 }
