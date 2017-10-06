@@ -10,6 +10,8 @@ namespace cadastroCliente
             string RG;   
             int Idade;
             string Endereço;
+            string CPF;
+            string Genero;
 
             Console.WriteLine("Qual o seu nome?");
             nome = Console.ReadLine();
@@ -19,7 +21,10 @@ namespace cadastroCliente
             Idade = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Qual seu endereço?");
             Endereço = Console.ReadLine();
-           
+            Console.WriteLine("Qual o seu CPF?");
+            CPF = Console.ReadLine();
+            Console.WriteLine("Qual genero você se identifica?");
+            Genero = Console.ReadLine();
         }
     }
 }
