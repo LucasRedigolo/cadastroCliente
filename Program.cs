@@ -48,7 +48,7 @@ namespace cadastroCliente
                 Console.WriteLine("Qual o seu estado civil?\n1 Solteiro\n2 Casado");
                 Converteu = int.TryParse(Console.ReadLine(), out EstadoCivil);
 
-            } while (Converteu == true && EstadoCivil == 1 || EstadoCivil == 2);
+            } while (!(Converteu == true && EstadoCivil == 1 || EstadoCivil == 2));
 
             if(EstadoCivil == 1)
             {
