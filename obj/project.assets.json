@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
+      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
       "projectName": "cadastroCliente",
-      "projectPath": "c:\\Users\\FIC\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
+      "projectPath": "C:\\Users\\FIC\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\FIC\\Desktop\\cadastroCliente\\obj\\",
+      "outputPath": "C:\\Users\\FIC\\Desktop\\cadastroCliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
