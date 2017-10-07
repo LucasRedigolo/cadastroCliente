@@ -63,15 +63,15 @@ namespace cadastroCliente
                 StringEstadoCivil = "Casado";
             }
 
-            Console.WriteLine("\n"+Nome);
-            Console.WriteLine(RG);
-            Console.WriteLine(CPF);
-            Console.WriteLine(Idade);
-            Console.WriteLine(Genero);
-            Console.WriteLine(LocalNascimento);
-            Console.WriteLine(Profissao);
-            Console.WriteLine(Endereco);
-            Console.WriteLine(StringEstadoCivil);
+            Console.WriteLine("\nNome: "+Nome);
+            Console.WriteLine("RG: "+RG);
+            Console.WriteLine("CPF: "+CPF);
+            Console.WriteLine("Idade: "+Idade);
+            Console.WriteLine("Gênero: "+Genero);
+            Console.WriteLine("Local de Nascimento: "+LocalNascimento);
+            Console.WriteLine("Profissão: "+Profissao);
+            Console.WriteLine("Endereço: "+Endereco);
+            Console.WriteLine("Estado Civil: "+StringEstadoCivil);
 
             Console.WriteLine("\nCadastro concluído com sucesso!");
 
