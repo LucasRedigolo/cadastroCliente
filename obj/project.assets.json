@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\38141419897\\.nuget\\packages\\": {},
+    "C:\\Users\\43692939876\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\38141419897\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
+      "projectUniqueName": "c:\\Users\\43692939876\\Desktop\\Projetos\\cadastroCliente\\cadastroCliente.csproj",
       "projectName": "cadastroCliente",
-      "projectPath": "c:\\Users\\38141419897\\Desktop\\cadastroCliente\\cadastroCliente.csproj",
-      "packagesPath": "C:\\Users\\38141419897\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\38141419897\\Desktop\\cadastroCliente\\obj\\",
+      "projectPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\cadastroCliente\\cadastroCliente.csproj",
+      "packagesPath": "C:\\Users\\43692939876\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\cadastroCliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\38141419897\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\43692939876\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
