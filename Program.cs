@@ -36,7 +36,6 @@ namespace cadastroCliente
                 ConverteuIdade = int.TryParse(Console.ReadLine(), out Idade);
 
             } while (!(ConverteuIdade == true)); 
-            //coments
 
             Console.WriteLine("Qual o seu local de nascimento?");
             LocalNascimento = Console.ReadLine();
