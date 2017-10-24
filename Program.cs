@@ -6,7 +6,6 @@ namespace cadastroCliente
     {
         static void Main(string[] args)
         {
-
             string Nome;
             string RG;
             string CPF;  
