@@ -28,13 +28,15 @@ namespace cadastroCliente
             Console.WriteLine("Qual o seu CPF?");
             CPF = Console.ReadLine();
 
+
             do
             {
 
                 Console.WriteLine("Qual sua idade?");
                 ConverteuIdade = int.TryParse(Console.ReadLine(), out Idade);
 
-            } while (!(ConverteuIdade == true));
+            } while (!(ConverteuIdade == true)); 
+            //coments
 
             Console.WriteLine("Qual o seu local de nascimento?");
             LocalNascimento = Console.ReadLine();
