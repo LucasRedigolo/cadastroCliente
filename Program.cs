@@ -73,7 +73,6 @@ namespace cadastroCliente
             Console.WriteLine("Estado Civil: "+StringEstadoCivil);
 
             Console.WriteLine("\nCadastro concluído com sucesso!");
-            
         }     
 
     }
